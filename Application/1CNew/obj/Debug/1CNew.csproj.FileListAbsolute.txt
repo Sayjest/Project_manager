@@ -1,0 +1,98 @@
+C:\Users\pk\Desktop\1CNew\1CNew\bin\Debug\1CNew.exe.config
+C:\Users\pk\Desktop\1CNew\1CNew\bin\Debug\1CNew.exe
+C:\Users\pk\Desktop\1CNew\1CNew\bin\Debug\1CNew.pdb
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\1CNew.csprojResolveAssemblyReference.cache
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\_1CNew.Form1.resources
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\_1CNew.Form2.resources
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\_1CNew.Properties.Resources.resources
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\1CNew.csproj.GenerateResource.Cache
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\1CNew.exe
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\1CNew.pdb
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\Interop.V83.dll
+C:\Users\pk\Desktop\1CNew\1CNew\obj\Debug\1CNew.csproj.ResolveComReference.cache
+C:\Users\pk\Desktop\1CNew\1CNew\bin\Debug\MySql.Data.dll
+C:\Users\pk\Desktop\1CNew\1CNew\bin\Debug\Google.Protobuf.dll
+C:\Users\pk\Desktop\1CNew\1CNew\bin\Debug\MySql.Data.xml
+J:\1CNew\1CNew\bin\Debug\1CNew.exe.config
+J:\1CNew\1CNew\obj\Debug\Interop.V83.dll
+J:\1CNew\1CNew\obj\Debug\1CNew.csproj.ResolveComReference.cache
+J:\1CNew\1CNew\obj\Debug\1CNew.exe
+J:\1CNew\1CNew\obj\Debug\1CNew.pdb
+J:\1CNew\1CNew\obj\Debug\1CNew.csprojResolveAssemblyReference.cache
+J:\1CNew\1CNew\obj\Debug\_1CNew.Form1.resources
+J:\1CNew\1CNew\obj\Debug\_1CNew.Form2.resources
+J:\1CNew\1CNew\obj\Debug\_1CNew.Properties.Resources.resources
+J:\1CNew\1CNew\obj\Debug\1CNew.csproj.GenerateResource.Cache
+J:\1CNew\1CNew\bin\Debug\1CNew.exe
+J:\1CNew\1CNew\bin\Debug\1CNew.pdb
+J:\1CNew\1CNew\bin\Debug\MySql.Data.dll
+J:\1CNew\1CNew\bin\Debug\Google.Protobuf.dll
+J:\1CNew\1CNew\bin\Debug\MySql.Data.xml
+I:\1CNew\1CNew\bin\Debug\1CNew.exe.config
+I:\1CNew\1CNew\obj\Debug\Interop.V83.dll
+I:\1CNew\1CNew\obj\Debug\1CNew.csproj.ResolveComReference.cache
+I:\1CNew\1CNew\obj\Debug\1CNew.exe
+I:\1CNew\1CNew\obj\Debug\1CNew.pdb
+I:\1CNew\1CNew\bin\Debug\1CNew.exe
+I:\1CNew\1CNew\bin\Debug\1CNew.pdb
+I:\1CNew\1CNew\bin\Debug\MySql.Data.dll
+I:\1CNew\1CNew\bin\Debug\Google.Protobuf.dll
+I:\1CNew\1CNew\bin\Debug\MySql.Data.xml
+I:\1CNew\1CNew\obj\Debug\1CNew.csprojResolveAssemblyReference.cache
+I:\1CNew\1CNew\obj\Debug\_1CNew.Form1.resources
+I:\1CNew\1CNew\obj\Debug\_1CNew.Form2.resources
+I:\1CNew\1CNew\obj\Debug\_1CNew.Properties.Resources.resources
+I:\1CNew\1CNew\obj\Debug\1CNew.csproj.GenerateResource.Cache
+K:\1CNew\1CNew\bin\Debug\1CNew.exe.config
+K:\1CNew\1CNew\obj\Debug\Interop.V83.dll
+K:\1CNew\1CNew\obj\Debug\1CNew.csproj.ResolveComReference.cache
+K:\1CNew\1CNew\obj\Debug\1CNew.exe
+K:\1CNew\1CNew\obj\Debug\1CNew.pdb
+K:\1CNew\1CNew\bin\Debug\1CNew.exe
+K:\1CNew\1CNew\bin\Debug\1CNew.pdb
+K:\1CNew\1CNew\bin\Debug\MySql.Data.dll
+K:\1CNew\1CNew\bin\Debug\Google.Protobuf.dll
+K:\1CNew\1CNew\bin\Debug\MySql.Data.xml
+K:\1CNew\1CNew\obj\Debug\1CNew.csprojResolveAssemblyReference.cache
+K:\1CNew\1CNew\obj\Debug\_1CNew.Form1.resources
+K:\1CNew\1CNew\obj\Debug\_1CNew.Form2.resources
+K:\1CNew\1CNew\obj\Debug\_1CNew.Properties.Resources.resources
+K:\1CNew\1CNew\obj\Debug\1CNew.csproj.GenerateResource.Cache
+K:\1CNew\1CNew\obj\Debug\_1CNew.Form3.resources
+I:\1CNew\1CNew\obj\Debug\_1CNew.Form3.resources
+C:\Users\Kuranai\Desktop\1CNew\1CNew\bin\Debug\1CNew.exe.config
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\Interop.V83.dll
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\1CNew.csproj.ResolveComReference.cache
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\1CNew.exe
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\1CNew.pdb
+C:\Users\Kuranai\Desktop\1CNew\1CNew\bin\Debug\1CNew.exe
+C:\Users\Kuranai\Desktop\1CNew\1CNew\bin\Debug\1CNew.pdb
+C:\Users\Kuranai\Desktop\1CNew\1CNew\bin\Debug\MySql.Data.dll
+C:\Users\Kuranai\Desktop\1CNew\1CNew\bin\Debug\Google.Protobuf.dll
+C:\Users\Kuranai\Desktop\1CNew\1CNew\bin\Debug\MySql.Data.xml
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\1CNew.csprojResolveAssemblyReference.cache
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\_1CNew.Form1.resources
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\_1CNew.Form2.resources
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\_1CNew.Form3.resources
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\_1CNew.Properties.Resources.resources
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\1CNew.csproj.GenerateResource.Cache
+C:\Users\Kuranai\Desktop\1CNew\1CNew\obj\Debug\_1CNew.Form4.resources
+K:\1CNew\1CNew\obj\Debug\_1CNew.Form4.resources
+I:\1CNew\1CNew\obj\Debug\_1CNew.Form4.resources
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\bin\Debug\1CNew.exe.config
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\Interop.V83.dll
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\1CNew.csproj.ResolveComReference.cache
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\1CNew.exe
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\1CNew.pdb
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\1CNew.csprojResolveAssemblyReference.cache
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\_1CNew.Form1.resources
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\_1CNew.Form2.resources
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\_1CNew.Form3.resources
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\_1CNew.Form4.resources
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\_1CNew.Properties.Resources.resources
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\obj\Debug\1CNew.csproj.GenerateResource.Cache
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\bin\Debug\1CNew.exe
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\bin\Debug\1CNew.pdb
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\bin\Debug\MySql.Data.dll
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\bin\Debug\Google.Protobuf.dll
+K:\дневник отчет со второго семестра\на диск\Разработка\Приложение\1CNew\bin\Debug\MySql.Data.xml
